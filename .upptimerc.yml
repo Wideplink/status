@@ -5,6 +5,8 @@ repo: status
 sites:
   - name: Wideplink Website
     url: https://wideplink.com
+    icon: https://wideplink.com/favicon.ico
+    
   - name: Wideplink Dev API
     url: $W_DEV_API_URL
     headers:
