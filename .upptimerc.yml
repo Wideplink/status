@@ -10,16 +10,12 @@ sites:
     url: $W_DEV_API_URL
     headers:
       - "Referer: $W_DEV_API_REFERER"
-      - "CF-Access-Client-Id: $CF_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
     icon: https://wideplink.com/favicon.ico
     
   - name: Wideplink Dev Discord Bot
     url: $W_DEVBOT_URL
     headers:
       - "Referer: $W_DEV_API_REFERER"
-      - "CF-Access-Client-Id: $CF_CLIENT_ID"
-      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
     icon: https://wideplink.com/favicon.ico
 
 status-website:
