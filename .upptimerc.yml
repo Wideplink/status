@@ -6,6 +6,14 @@ sites:
     url: https://wideplink.com
     icon: https://wideplink.com/favicon.ico
     
+  - name: Wideplink Dev Next
+    url: $W_DEV_NEXT_URL
+    headers:
+      - "Referer: $W_DEV_API_REFERER"
+      - "CF-Access-Client-Id: $CF_CLIENT_ID"
+      - "CF-Access-Client-Secret: $CF_CLIENT_SECRET"
+    icon: https://wideplink.com/favicon.ico
+    
   - name: Wideplink Dev API
     url: $W_DEV_API_URL
     headers:
@@ -14,6 +22,12 @@ sites:
     
   - name: Wideplink Dev Discord Bot
     url: $W_DEVBOT_URL
+    headers:
+      - "Referer: $W_DEV_API_REFERER"
+    icon: https://wideplink.com/favicon.ico
+    
+  - name: Wideplink Dev Management
+    url: $W_DEV_MNMT_OCH_URL
     headers:
       - "Referer: $W_DEV_API_REFERER"
     icon: https://wideplink.com/favicon.ico
@@ -31,6 +45,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Wideplink
+      href: https://wideplink.com/
     - title: GitHub
       href: https://github.com/Wideplink
 
