@@ -30,6 +30,8 @@ sites:
     url: $W_DEV_MNMT_OCH_URL
     headers:
       - "Referer: $W_DEV_API_REFERER"
+    expectedStatusCodes:
+      - 404
     icon: https://wideplink.com/favicon.ico
 
 status-website:
