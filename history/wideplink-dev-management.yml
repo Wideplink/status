@@ -1,7 +1,7 @@
 url: $W_DEV_MNMT_OCH_URL
-status: down
-code: 502
-responseTime: 978
-lastUpdated: 2023-03-02T11:53:44.846Z
+status: up
+code: 200
+responseTime: 938
+lastUpdated: 2023-03-02T12:15:43.143Z
 startTime: Sat Sep 03 2022 13:40:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
