@@ -1,7 +1,7 @@
 url: $W_DEV_API_URL
-status: down
-code: 502
-responseTime: 213
-lastUpdated: 2023-03-03T04:13:30.306Z
+status: up
+code: 200
+responseTime: 533
+lastUpdated: 2023-03-03T04:53:52.936Z
 startTime: Thu Aug 11 2022 06:43:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
