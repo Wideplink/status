@@ -1,7 +1,7 @@
 url: $W_DEVBOT_URL
-status: down
-code: 502
-responseTime: 1060
-lastUpdated: 2023-03-03T05:30:54.082Z
+status: up
+code: 200
+responseTime: 832
+lastUpdated: 2023-03-03T05:40:24.338Z
 startTime: Thu Aug 11 2022 11:35:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
