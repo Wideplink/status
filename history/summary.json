@@ -5,18 +5,19 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "down",
-    "uptime": "95.30%",
+    "uptime": "95.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.09%",
-    "uptimeYear": "94.25%",
+    "uptimeMonth": "27.82%",
+    "uptimeYear": "93.98%",
     "time": 617,
-    "timeDay": 456,
-    "timeWeek": 567,
-    "timeMonth": 571,
+    "timeDay": 585,
+    "timeWeek": 568,
+    "timeMonth": 570,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-11-01": 79,
+      "2023-11-02": 75,
+      "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -58,7 +59,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 293,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-01-08": 10,
       "2022-12-14": 84,
@@ -67,8 +68,7 @@
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
-      "2022-11-03": 1440,
-      "2022-11-02": 792
+      "2022-11-03": 1440
     }
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 399,
-    "timeDay": 410,
-    "timeWeek": 533,
-    "timeMonth": 569,
-    "timeYear": 320,
+    "time": 398,
+    "timeDay": 556,
+    "timeWeek": 537,
+    "timeMonth": 567,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2023-03-03": 40,
       "2023-02-28": 30,
@@ -95,8 +95,7 @@
       "2023-01-08": 10,
       "2022-12-14": 84,
       "2022-12-02": 20,
-      "2022-11-07": 3,
-      "2022-11-02": 17
+      "2022-11-07": 3
     }
   },
   {
@@ -110,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 799,
-    "timeDay": 436,
-    "timeWeek": 556,
-    "timeMonth": 559,
+    "time": 798,
+    "timeDay": 558,
+    "timeWeek": 558,
+    "timeMonth": 558,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2023-07-13": 288,
@@ -158,10 +157,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 822,
-    "timeDay": 439,
-    "timeWeek": 550,
-    "timeMonth": 572,
+    "time": 821,
+    "timeDay": 529,
+    "timeWeek": 540,
+    "timeMonth": 569,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2023-07-13": 288,
