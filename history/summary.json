@@ -5,18 +5,19 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "down",
-    "uptime": "94.66%",
+    "uptime": "94.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.24%",
-    "uptimeYear": "93.43%",
+    "uptimeMonth": "17.94%",
+    "uptimeYear": "93.15%",
     "time": 617,
-    "timeDay": 603,
-    "timeWeek": 585,
-    "timeMonth": 576,
+    "timeDay": 437,
+    "timeWeek": 563,
+    "timeMonth": 569,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-11-04": 75,
+      "2023-11-05": 80,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -56,7 +57,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.29%",
     "time": 410,
     "timeDay": 0,
     "timeWeek": 0,
@@ -67,8 +68,7 @@
       "2022-12-14": 84,
       "2022-12-13": 9,
       "2022-11-07": 839,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 396,
-    "timeDay": 605,
-    "timeWeek": 572,
-    "timeMonth": 573,
-    "timeYear": 321,
+    "time": 394,
+    "timeDay": 471,
+    "timeWeek": 556,
+    "timeMonth": 569,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2023-03-03": 40,
       "2023-02-28": 30,
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 797,
-    "timeDay": 690,
-    "timeWeek": 592,
-    "timeMonth": 566,
+    "timeDay": 405,
+    "timeWeek": 564,
+    "timeMonth": 560,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2023-07-13": 288,
@@ -157,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 821,
-    "timeDay": 679,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 840,
+    "time": 820,
+    "timeDay": 412,
+    "timeWeek": 557,
+    "timeMonth": 575,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2023-07-13": 288,
       "2023-07-12": 34,
@@ -185,8 +185,7 @@
       "2023-02-03": 15,
       "2023-01-28": 46,
       "2023-01-08": 10,
-      "2022-12-20": 12,
-      "2022-11-05": 8
+      "2022-12-20": 12
     }
   }
 ]
