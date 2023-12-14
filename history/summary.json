@@ -5,18 +5,19 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "down",
-    "uptime": "87.11%",
+    "uptime": "86.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.74%",
+    "uptimeYear": "82.47%",
     "time": 613,
-    "timeDay": 644,
-    "timeWeek": 634,
-    "timeMonth": 546,
+    "timeDay": 732,
+    "timeWeek": 644,
+    "timeMonth": 550,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2023-12-13": 79,
+      "2023-12-14": 78,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -100,10 +101,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 291,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-01-08": 10,
-      "2022-12-14": 84
+      "2023-01-08": 10
     }
   },
   {
@@ -117,18 +117,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 337,
-    "timeDay": 94,
-    "timeWeek": 86,
-    "timeMonth": 143,
+    "time": 336,
+    "timeDay": 48,
+    "timeWeek": 73,
+    "timeMonth": 122,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2023-03-03": 40,
       "2023-02-28": 30,
       "2023-02-26": 18,
       "2023-02-24": 1,
-      "2023-01-08": 10,
-      "2022-12-14": 84
+      "2023-01-08": 10
     }
   },
   {
@@ -142,10 +141,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 777,
-    "timeDay": 618,
-    "timeWeek": 557,
-    "timeMonth": 495,
+    "time": 776,
+    "timeDay": 545,
+    "timeWeek": 553,
+    "timeMonth": 494,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2023-11-28": 21,
@@ -188,9 +187,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 797,
-    "timeDay": 592,
-    "timeWeek": 500,
+    "time": 796,
+    "timeDay": 559,
+    "timeWeek": 548,
     "timeMonth": 504,
     "timeYear": 817,
     "dailyMinutesDown": {
