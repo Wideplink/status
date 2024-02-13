@@ -5,15 +5,15 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "up",
-    "uptime": "81.33%",
+    "uptime": "81.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.42%",
+    "uptimeMonth": "71.71%",
     "uptimeYear": "71.90%",
-    "time": 590,
-    "timeDay": 245,
-    "timeWeek": 203,
-    "timeMonth": 315,
+    "time": 589,
+    "timeDay": 232,
+    "timeWeek": 211,
+    "timeMonth": 314,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2024-01-21": 947,
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
+    "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 294,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -153,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 95,
-    "timeWeek": 100,
-    "timeMonth": 95,
+    "timeDay": 78,
+    "timeWeek": 96,
+    "timeMonth": 94,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-03-03": 40,
@@ -176,9 +176,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 756,
-    "timeDay": 634,
-    "timeWeek": 546,
-    "timeMonth": 548,
+    "timeDay": 591,
+    "timeWeek": 541,
+    "timeMonth": 553,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2024-01-27": 9,
@@ -201,8 +201,7 @@
       "2023-02-22": 9,
       "2023-02-21": 19,
       "2023-02-20": 9,
-      "2023-02-15": 20,
-      "2023-02-13": 18
+      "2023-02-15": 20
     }
   },
   {
@@ -216,10 +215,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
-    "time": 770,
-    "timeDay": 564,
-    "timeWeek": 543,
-    "timeMonth": 550,
+    "time": 769,
+    "timeDay": 629,
+    "timeWeek": 539,
+    "timeMonth": 558,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2024-01-27": 9,
@@ -239,8 +238,7 @@
       "2023-02-21": 19,
       "2023-02-20": 9,
       "2023-02-18": 8,
-      "2023-02-15": 29,
-      "2023-02-13": 18
+      "2023-02-15": 29
     }
   }
 ]
