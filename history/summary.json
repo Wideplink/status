@@ -5,15 +5,15 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "up",
-    "uptime": "81.93%",
+    "uptime": "81.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.90%",
     "time": 576,
-    "timeDay": 258,
-    "timeWeek": 243,
-    "timeMonth": 218,
+    "timeDay": 679,
+    "timeWeek": 300,
+    "timeMonth": 233,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2024-01-21": 947,
@@ -153,13 +153,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 105,
-    "timeWeek": 97,
+    "timeDay": 71,
+    "timeWeek": 99,
     "timeMonth": 85,
     "timeYear": 313,
-    "dailyMinutesDown": {
-      "2023-03-03": 40
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wideplink Dev Discord Bot",
@@ -172,11 +170,11 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.86%",
-    "time": 752,
-    "timeDay": 634,
-    "timeWeek": 609,
-    "timeMonth": 567,
-    "timeYear": 727,
+    "time": 751,
+    "timeDay": 576,
+    "timeWeek": 608,
+    "timeMonth": 565,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-02-27": 44,
       "2024-01-27": 9,
@@ -193,8 +191,7 @@
       "2023-04-07": 24,
       "2023-03-16": 9,
       "2023-03-10": 9,
-      "2023-03-07": 9,
-      "2023-03-03": 50
+      "2023-03-07": 9
     }
   },
   {
@@ -209,8 +206,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 763,
-    "timeDay": 633,
-    "timeWeek": 561,
+    "timeDay": 623,
+    "timeWeek": 564,
     "timeMonth": 553,
     "timeYear": 724,
     "dailyMinutesDown": {
@@ -227,8 +224,7 @@
       "2023-04-14": 9,
       "2023-04-07": 24,
       "2023-03-16": 9,
-      "2023-03-07": 9,
-      "2023-03-03": 50
+      "2023-03-07": 9
     }
   }
 ]
