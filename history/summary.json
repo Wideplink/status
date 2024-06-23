@@ -5,16 +5,16 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "up",
-    "uptime": "84.93%",
+    "uptime": "84.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.90%",
-    "time": 507,
-    "timeDay": 267,
-    "timeWeek": 239,
-    "timeMonth": 237,
-    "timeYear": 458,
+    "time": 506,
+    "timeDay": 134,
+    "timeWeek": 218,
+    "timeMonth": 234,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2024-01-21": 947,
       "2024-01-20": 1440,
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
+    "time": 292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 151,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 146,
-    "timeWeek": 95,
-    "timeMonth": 97,
+    "timeDay": 116,
+    "timeWeek": 100,
+    "timeMonth": 98,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -170,10 +170,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 676,
-    "timeDay": 664,
-    "timeWeek": 567,
-    "timeMonth": 553,
-    "timeYear": 592,
+    "timeDay": 426,
+    "timeWeek": 563,
+    "timeMonth": 551,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2024-02-27": 44,
       "2024-01-27": 9,
@@ -182,8 +182,7 @@
       "2023-07-13": 288,
       "2023-07-12": 34,
       "2023-07-10": 66,
-      "2023-06-26": 9,
-      "2023-06-24": 9
+      "2023-06-26": 9
     }
   },
   {
@@ -197,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 677,
-    "timeDay": 649,
-    "timeWeek": 555,
-    "timeMonth": 566,
-    "timeYear": 591,
+    "time": 676,
+    "timeDay": 434,
+    "timeWeek": 560,
+    "timeMonth": 567,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-02-28": 15,
       "2024-02-27": 44,
@@ -209,8 +208,7 @@
       "2023-11-28": 21,
       "2023-07-13": 288,
       "2023-07-12": 34,
-      "2023-07-10": 91,
-      "2023-06-24": 9
+      "2023-07-10": 91
     }
   }
 ]
