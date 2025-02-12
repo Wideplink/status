@@ -4,19 +4,19 @@
     "url": "https://wideplink.com",
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
-    "status": "down",
+    "status": "up",
     "uptime": "88.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 383,
-    "timeWeek": 275,
+    "timeDay": 324,
+    "timeWeek": 274,
     "timeMonth": 273,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 20
     }
   },
   {
