@@ -5,16 +5,16 @@
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-website",
     "status": "up",
-    "uptime": "89.00%",
+    "uptime": "89.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 276,
-    "timeWeek": 255,
-    "timeMonth": 269,
-    "timeYear": 267,
+    "time": 313,
+    "timeDay": 326,
+    "timeWeek": 276,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-02-12": 20
     }
@@ -48,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 162,
-    "timeWeek": 115,
+    "time": 127,
+    "timeDay": 92,
+    "timeWeek": 109,
     "timeMonth": 125,
     "timeYear": 102,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 426,
-    "timeWeek": 503,
-    "timeMonth": 575,
+    "timeDay": 631,
+    "timeWeek": 514,
+    "timeMonth": 574,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-07-31": 9
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 481,
-    "timeWeek": 499,
+    "timeDay": 694,
+    "timeWeek": 522,
     "timeMonth": 570,
-    "timeYear": 555,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2024-07-17": 9
     }
