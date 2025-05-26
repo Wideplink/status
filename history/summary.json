@@ -60,10 +60,10 @@
     "url": "$W_DEVBOT_URL",
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-dev-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
@@ -72,6 +72,7 @@
     "timeMonth": 581,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2025-05-26": 1,
       "2024-07-31": 9
     }
   },
