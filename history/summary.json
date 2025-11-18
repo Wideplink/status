@@ -6,7 +6,7 @@
     "slug": "wideplink-website",
     "status": "up",
     "uptime": "91.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 303,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-02-12": 20
     }
   },
@@ -60,18 +61,19 @@
     "url": "$W_DEVBOT_URL",
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-dev-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 588,
-    "timeWeek": 620,
-    "timeMonth": 584,
-    "timeYear": 587,
+    "time": 576,
+    "timeDay": 350,
+    "timeWeek": 556,
+    "timeMonth": 569,
+    "timeYear": 585,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-05-26": 20
     }
   },
@@ -80,17 +82,19 @@
     "url": "$W_DEV_MNMT_OCH_URL",
     "icon": "https://wideplink.com/favicon.ico",
     "slug": "wideplink-dev-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 638,
-    "timeWeek": 589,
-    "timeMonth": 594,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "timeDay": 360,
+    "timeWeek": 526,
+    "timeMonth": 578,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
