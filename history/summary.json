@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 315,
-    "timeDay": 242,
-    "timeWeek": 249,
-    "timeMonth": 306,
+    "time": 316,
+    "timeDay": 599,
+    "timeWeek": 283,
+    "timeMonth": 320,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-11-18": 91,
       "2026-01-27": 18,
       "2026-04-30": 99
     }
@@ -51,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 64,
-    "timeWeek": 71,
-    "timeMonth": 88,
-    "timeYear": 89,
+    "timeDay": 203,
+    "timeWeek": 87,
+    "timeMonth": 94,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -69,13 +68,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 575,
-    "timeDay": 433,
+    "timeDay": 564,
     "timeWeek": 589,
-    "timeMonth": 602,
+    "timeMonth": 601,
     "timeYear": 562,
-    "dailyMinutesDown": {
-      "2025-11-18": 83
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wideplink Dev Management",
@@ -88,13 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 581,
-    "timeDay": 424,
-    "timeWeek": 721,
-    "timeMonth": 636,
-    "timeYear": 572,
-    "dailyMinutesDown": {
-      "2025-11-18": 91
-    }
+    "time": 583,
+    "timeDay": 1319,
+    "timeWeek": 824,
+    "timeMonth": 659,
+    "timeYear": 574,
+    "dailyMinutesDown": {}
   }
 ]
